@@ -10,7 +10,7 @@ The application works from console, so after executing this program. You will be
 The user will be prompted to input a date in the following format. **It will most likely crash if you do not input the correct format**
 
 That inputted date will be used to webscrape from Billboard's Top 100 songs list, and the application will get every song name listed here.
-In this example, I inputted *2023-11-04*, and this is the billboard website page that we will be scraping from.
+In this example, I inputted *2020-11-04*, and this is the billboard website page that we will be scraping from.
 
 ![Billboard's Top 100](https://github.com/rinriukato/Spotify-Top-100-Playlist-Generator/blob/main/sample_images/Screenshot%202024-04-22%20153839.png)
 
