@@ -14,7 +14,9 @@ In this example, I inputted *2020-11-04*, and this is the billboard website page
 
 ![Billboard's Top 100](https://github.com/rinriukato/Spotify-Top-100-Playlist-Generator/blob/main/sample_images/Screenshot%202024-04-22%20153839.png)
 
-Once the data is scraped and formatted, utilizing the Spotify API, get each song uri, then create a new playlist with each song in the list. If a song is not found in spotify, it will not be added. **NOTE: If it fails to find a song, it doesn't necessarily means that it's not on spotify, it could be that the song title was incorrectly formatted**.
+Once the data is scraped and formatted, utilizing the Spotify API, get each song uri, then create a new playlist with each song in the list. If a song is not found in spotify, it will not be added. 
+
+**NOTE: If it fails to find a song, it doesn't necessarily means that it's not on spotify, it could be that the song title was incorrectly formatted**.
 
 ![Example of the program finishing](https://github.com/rinriukato/Spotify-Top-100-Playlist-Generator/blob/main/sample_images/Screenshot%202024-04-22%20153853.png)
 
